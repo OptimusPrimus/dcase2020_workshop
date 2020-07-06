@@ -1,0 +1,3 @@
+from dcase2020_workshop.priors.base_prior import PriorBase
+from dcase2020_workshop.priors.no_prior import NoPrior
+from dcase2020_workshop.priors.standard_normal_prior import StandardNormalPrior

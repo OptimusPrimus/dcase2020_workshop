@@ -1,0 +1,9 @@
+experiment_logs/*/*
+raw_data/*/*
+vae_priors.egg-info
+.idea
+**pyc
+**.DS_Store
+results/*
+data/*
+/notebooks/.ipynb_checkpoints/

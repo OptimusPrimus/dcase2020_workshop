@@ -1,0 +1,1 @@
+from dcase2020_workshop.utils.checkpoint_loader import load_model
